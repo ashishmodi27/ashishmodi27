@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishmodi27
+- 👋 Hi, I’m Ashish Modi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data Science
 - 📫 How to out via https://www.linkedin.com/in/ashish-modi/ or ashishmodi27@gmail.com 
